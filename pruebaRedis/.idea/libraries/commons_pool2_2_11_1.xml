@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-pool2-2.11.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Downloads/jar_files/commons-pool2-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Downloads/jar_files/gson-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Downloads/jar_files/jedis-5.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Downloads/jar_files/json-20231013.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Downloads/jar_files/slf4j-api-1.7.36.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
